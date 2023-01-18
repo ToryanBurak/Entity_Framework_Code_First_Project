@@ -1,0 +1,15 @@
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\100123_DbCodeFirst_Proje.exe.config
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\100123_DbCodeFirst_Proje.exe
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\100123_DbCodeFirst_Proje.pdb
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\EntityFramework.dll
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\EntityFramework.xml
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.csproj.AssemblyReference.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.csproj.SuggestedBindingRedirects.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\_100123_DbCodeFirst_Proje.Properties.Resources.resources
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.csproj.GenerateResource.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.csproj.CoreCompileInputs.cache
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.csproj.CopyComplete
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.exe
+E:\C# Projeler\repos\Hesap_Makinesi\Hesap_Makinesi\100123_DbCodeFirst_Proje\100123_DbCodeFirst_Proje\obj\Debug\100123_DbCodeFirst_Proje.pdb
